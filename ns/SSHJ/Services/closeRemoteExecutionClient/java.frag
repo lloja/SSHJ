@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">closeRemoteExecutionClient</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClNTSENs
+aWVudCBzc2ggPSAoU1NIQ2xpZW50KSBJRGF0YVV0aWwuZ2V0KCBwaXBlbGluZUN1cnNvciwgInNz
+aENsaWVudCIgKTsNCg0KdHJ5IHsNCglpZiAoc3NoICE9IG51bGwgJiYgc3NoLmlzQ29ubmVjdGVk
+KCkpIHsNCgkJc3NoLmRpc2Nvbm5lY3QoKTsNCgkJSURhdGFVdGlsLnJlbW92ZShwaXBlbGluZUN1
+cnNvciwgInNzaENsaWVudCIpOw0KCX0gZWxzZSB7DQoJCUlEYXRhVXRpbC5wdXQoIHBpcGVsaW5l
+Q3Vyc29yLCAiZXJyb3IiLCAiTm8gY2xpZW50IGNvbm5lY3Rpb24gZ2l2ZW4uIik7DQoJfQ0KCXBp
+cGVsaW5lQ3Vyc29yLmRlc3Ryb3koKTsNCn0gY2F0Y2ggKEV4Y2VwdGlvbiBlKQ0Kew0KCVN5c3Rl
+bS5vdXQucHJpbnRsbihlLnRvU3RyaW5nKCkpOw0KCUlEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vy
+c29yLCAiZXJyb3IiLCBlLnRvU3RyaW5nKCkgKTsNCglJRGF0YVV0aWwucmVtb3ZlKHBpcGVsaW5l
+Q3Vyc29yLCAic3NoQ2xpZW50Iik7DQoJcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KfQ==</value>
+</Values>
