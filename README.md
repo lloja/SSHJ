@@ -26,7 +26,7 @@ The SSHJ.Services:remoteExecutionSession service opens a SSH connnection and ses
 
 The inputs for this service includes the user name, its password, the remote hostname or address, the SSH port if not using the default port number, a command with its arguments. Notice, no password is required if the public key for the remote server is present in the known_hosts file.  
 
-<img width="1535" height="320" alt="image" src="https://github.com/user-attachments/assets/54193aea-123c-4e58-abf2-00b49e468701" />  
+<img width="1535" height="320" alt="image" src="https://github.com/user-attachments/assets/54193aea-123c-4e58-abf2-00b49e468701" />  <br />
 
 
 Multiple commands can be executed in the same connection by first opening a connection with the service SSHJ.Services:openRemoteExecutionClient and then issuing multiple times the service SSHJ.Services:commandRemoteExecutionSession and for each command before closing the connection with service SSHJ.Services:closeRemoteExecutionClient.  
