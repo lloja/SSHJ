@@ -15,6 +15,6 @@ Copy and paste the private key into the file \<Installation Directory\>\Integrat
 
 The public key should go into the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\id_rsa.pub .
 
-Add all the public keys and one per line for each remote server that you are connecting to and these should go into the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\known_hosts .
+Add all the public keys and one per line for each remote server that you are connecting to and onto the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\known_hosts .
 
 
