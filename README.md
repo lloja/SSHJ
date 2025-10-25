@@ -6,7 +6,7 @@ This package wraps and includes the SSHJ implementation and libraries from https
 webMethods Integration Server doesn't provide an SSH client capability hence the reason for this package.
 The package includes just set of few services and it doesn't attempt to map or explore all the options of SSHJ libraries as webMethods services.
 
-Download this repository as a zip file and install the zip file as a Integration Server package.
+Download this repository as a zip file and install the zip file as an Integration Server package.
 
 After the package installation.
 Generate a SSH public/private key par using for example ssh-keygen.
@@ -15,6 +15,6 @@ Copy and paste the private key into the file \<Installation Directory\>\Integrat
 
 The public key should go into the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\id_rsa.pub .
 
-Add all the public keys and one per line for each remote servers that you are connecting to and these should go into the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\known_hosts .
+Add all the public keys and one per line for each remote server that you are connecting to and these should go into the file \<Installation Directory\>\IntegrationServer\instances\default\packages\SSHJ\config\.ssh\known_hosts .
 
 
